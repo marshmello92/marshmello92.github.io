@@ -1,0 +1,269 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  background-color: #fbfaf9;
+}
+header{
+  padding: 10px 0px 10px 0px;
+}
+.container{
+  width: 1170px;
+  margin: 0px auto;
+}
+.social{
+  width: 40%;
+  float:left;
+}
+.logo{
+  width: 20%;
+  float: left;
+  padding-top: 45px;
+  padding-bottom: 30px;
+}
+.logo a{
+  font-size: 20px
+}
+.menu{
+  width: 40%;
+  float: left;
+}
+.clear{
+  clear: both;
+}
+.menu ul{
+  float: right;
+}
+.menu ul li{
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 15px;
+}
+.menu ul li a{
+  text-decoration: none;
+  color: black;
+}
+.menu ul li a:hover{
+  color: #ffebcd;
+}
+.social ul{
+  float: left;
+}
+.social ul li{
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 15px;
+}
+.header{
+  background-color: #00cb84;
+}
+.header ul li a{
+  color: white;
+}
+.header ul li a:hover{
+  color: #ffebcd;
+}
+.header a{
+  color: #ffebcd;
+  text-decoration: none;
+}
+.seconecolor{
+  background-color:#00cb84;
+  padding-top: 50px
+}
+.onetext{
+padding-bottom: 170px;
+padding-left: 80px;
+color: white;
+}
+
+.col1{
+  float: left;
+  width: 33.3333%
+}
+.col2{
+  float: left;
+  width: 33.3333%
+}
+.col3{
+  float: left;
+  width: 33.3333%
+}
+.centered{
+  text-align: center;
+}
+.col50{
+  float: left;
+  width: 50%
+}
+.work1{
+  padding-top: 70px;
+}
+.colfifty{
+  float: left;
+  width: 50%
+}
+.colfiftyy{
+  float: left;
+  width: 50%
+}
+.colfifty img{
+  width: 500px;
+}
+.colfiftyy img{
+  width: 530px;
+}
+.col50 img{
+  width: 500px;
+}
+.me p{
+  padding-top: 10px;
+}
+.me h1{
+  padding-top: 190px;
+}
+.me{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.aboutpage{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.secfour{
+  background: url('../images/workheader.jpg') no-repeat;
+  background-position:center;
+  background-size: cover;
+  padding: 120px 0px 120px 0px;
+}
+.secfour p{
+  color: #d99578;
+}
+.secfour h2{
+  color: #d99578;
+}
+.secthree i{
+  color: #00cb84;
+}
+.secthree h1{
+  color: #d99578;
+}
+.secthree{
+  padding-top: 20px;
+}
+.sectwo h1{
+  color: #d99578;
+}
+.touch h2{
+  color: #d99578;
+}
+.aboutpage h3{
+  color: #d99578;
+}
+.touch{
+  margin: 50px 0px 50px 0px;
+  padding-top: 20px;
+}
+.footer{
+padding: 5px 0px 80px 0px;
+/*background-color: #3e3e3e;*/
+}
+.work2 a{
+  border-radius: 30px;
+  border: 1px solid #01d679;
+  color: white;
+  background: #01d679;
+  padding: 8px 10px 8px 10px;
+  text-decoration: none;
+}
+.onetext a{
+  border-radius: 30px;
+  border: 1px solid #3ff1a3;
+  color: white;
+  background: #3ff1a3;
+  padding: 8px 10px 8px 10px;
+  text-decoration: none;
+}
+.button2 a{
+  border-radius: 30px;
+  border: 1px solid #01d679;
+  color: white;
+  background: #01d679;
+  padding: 8px 10px 8px 10px;
+  text-decoration: none;
+}
+.secfour a{
+  border-radius: 30px;
+  border: 1px solid #01d679;
+  color: white;
+  background: #01d679;
+  padding: 8px 10px 8px 10px;
+  text-decoration: none;
+}
+.contactbutton a{
+  border-radius: 30px;
+  border: 1px solid #01d679;
+  color: white;
+  background: #01d679;
+  padding: 8px 10px 8px 10px;
+  text-decoration: none;
+}
+.me a{
+  border-radius: 30px;
+  border: 1px solid #01d679;
+  color: white;
+  background: #01d679;
+  padding: 8px 10px 8px 10px;
+  text-decoration: none;
+}
+.footer a{
+  border-radius: 30px;
+  border: 1px solid #01d679;
+  color: white;
+  background: #01d679;
+  padding: 8px 10px 8px 10px;
+  text-decoration: none;
+}
+.workheader{
+  background: url('../images/workheader.jpg') no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 330px;
+}
+.contactheader{
+  background: url('../images/contactheader.jpg') no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 330px;
+}
+.contacttext h2{
+  color: #d99578;
+}
+.contactform{
+  padding-bottom: 400px;
+  padding-top: 70px;
+}
+.workheader h2{
+  padding-top: 150px;
+  font-size: 50px;
+  color: #d99578
+}
+.col4{
+  padding-top: 40px;
+  float: left;
+  width: 33.3333%
+}
+.col5{
+  padding-top: 40px;
+  float: left;
+  width: 33.3333%
+}
+.col6{
+  padding-top: 40px;
+  float: left;
+  width: 33.3333%
+}
+.margin{
+  padding-top: 60px;
+}
